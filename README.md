@@ -21,7 +21,7 @@ The application is built with:
 - [How to use](#how-to-use)
 - [Contribute](#contribute)
 ## Installation
-Please download the appropriate version and operating system of the Ungate Miner application on Releases or click on this address to [download](https://github.com/Cryptopiece/ungate/releases)
+Please download the appropriate version and operating system of the Ungate Miner application on Releases or click on this address to [download](https://github.com/Ungate/Ungate-GNode/releases)
 ## How to use
 - Windown
   * After downloading the .msi file to your computer, double click on the file and proceed with the installation according to the instructions.
